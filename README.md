@@ -5,7 +5,7 @@
 
 * 🌍  Based in the Saint-Petersrburg
 * 🖥️  Currently building my portfolio
-* ✉️  Contact me on Telegram: <a href="https://t.me/artsobol"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="20" height="20" /></a>
+* ✉️  Contact me on Telegram: <a href="https://t.me/artsobol05"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="20" height="20" /></a>
 * 🚀  Working on a personal project in Java/Spring
 * 🧠  Currently learning design patterns, clean code practices, and concurrency
 * 🤝  Open to collaborating on backend-focused Java projects
